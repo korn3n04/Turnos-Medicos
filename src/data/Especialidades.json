@@ -1,0 +1,22 @@
+[
+  { "especialidadId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890", "nombreEspecilidad": "Cardiología", "activa": true },
+  { "especialidadId": "b2c3d4e5-f6a7-8901-bcde-f12345678901", "nombreEspecilidad": "Pediatría", "activa": true },
+  { "especialidadId": "c3d4e5f6-a7b8-9012-cdef-123456789012", "nombreEspecilidad": "Traumatología", "activa": true },
+  { "especialidadId": "d4e5f6a7-b8c9-0123-defa-234567890123", "nombreEspecilidad": "Dermatología", "activa": true },
+  { "especialidadId": "e5f6a7b8-c9d0-1234-efab-345678901234", "nombreEspecilidad": "Oftalmología", "activa": true },
+  { "especialidadId": "f6a7b8c9-d0e1-2345-fabc-456789012345", "nombreEspecilidad": "Otorrinolaringología", "activa": true },
+  { "especialidadId": "7a8b9c0d-1e2f-3456-abcd-567890123456", "nombreEspecilidad": "Neurología", "activa": true },
+  { "especialidadId": "8b9c0d1e-2f3a-4567-bcde-678901234567", "nombreEspecilidad": "Ginecología", "activa": true },
+  { "especialidadId": "9c0d1e2f-3a4b-5678-cdef-789012345678", "nombreEspecilidad": "Urología", "activa": true },
+  { "especialidadId": "0d1e2f3a-4b5c-6789-defa-890123456789", "nombreEspecilidad": "Psiquiatría", "activa": true },
+  { "especialidadId": "1e2f3a4b-5c6d-7890-efab-901234567890", "nombreEspecilidad": "Psicología", "activa": true },
+  { "especialidadId": "2f3a4b5c-6d7e-8901-fabc-012345678901", "nombreEspecilidad": "Endocrinología", "activa": true },
+  { "especialidadId": "3a4b5c6d-7e8f-9012-abcd-123456789012", "nombreEspecilidad": "Gastroenterología", "activa": true },
+  { "especialidadId": "4b5c6d7e-8f9a-0123-bcde-234567890123", "nombreEspecilidad": "Neumonología", "activa": true },
+  { "especialidadId": "5c6d7e8f-9a0b-1234-cdef-345678901234", "nombreEspecilidad": "Reumatología", "activa": true },
+  { "especialidadId": "6d7e8f9a-0b1c-2345-defa-456789012345", "nombreEspecilidad": "Nefrología", "activa": true },
+  { "especialidadId": "7e8f9a0b-1c2d-3456-efab-567890123456", "nombreEspecilidad": "Alergia e Inmunología", "activa": true },
+  { "especialidadId": "8f9a0b1c-2d3e-4567-fabc-678901234567", "nombreEspecilidad": "Oncología", "activa": true },
+  { "especialidadId": "9a0b1c2d-3e4f-5678-abcd-789012345678", "nombreEspecilidad": "Hematología", "activa": true },
+  { "especialidadId": "0b1c2d3e-4f5a-6789-bcde-890123456789", "nombreEspecilidad": "Nutrición", "activa": true }
+]
